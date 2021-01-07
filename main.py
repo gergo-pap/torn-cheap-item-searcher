@@ -6,7 +6,7 @@ from plyer import notification
 import pyperclip
 import database
 
-api_key = 'AZUBtdoak55AXIfq'
+api_key = ''
 api_url = 'https://api.torn.com/user/?selections=personalstats&key=%s' % api_key
 url_base = 'https://www.torn.com/imarket.php#/p=shop&step=shop&type=&searchname='
 
